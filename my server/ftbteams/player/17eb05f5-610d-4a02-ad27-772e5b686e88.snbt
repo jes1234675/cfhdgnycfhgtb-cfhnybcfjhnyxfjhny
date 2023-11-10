@@ -1,0 +1,17 @@
+{
+	id: "17eb05f5-610d-4a02-ad27-772e5b686e88"
+	type: "player"
+	player_name: "Henrik2032"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Henrik2032"
+		"ftbteams:color": "#59FFC5"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
